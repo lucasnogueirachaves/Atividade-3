@@ -1,10 +1,3 @@
-'''
-O programa deve permitir adicionar novas novelas,
-consultar audiências, filtrar sucessos (audiência > 40 pontos), e calcular
-estatísticas como média de audiência e ranking das novelas.
-
-'''
-
 novelas = {"violeta": 30, "eu sou franky": 10, "regra do jogo": 40, "avenida brasil": 50}
 
 def adicionar(novelas):

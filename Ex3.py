@@ -16,7 +16,4 @@ def media(*args):
             print("Recuperação!")
         else:
             print("Aprovado!")
-        print(media)
-
-media(10, 10)      
-    
+            
